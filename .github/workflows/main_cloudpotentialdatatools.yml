@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'CloudPotentialDataTools'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_92F4895CE24743FD9C4671316A5F705D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_96C5956B09854B08AEAF08A577729029 }}
