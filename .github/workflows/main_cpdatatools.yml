@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'CPdatatools'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D1C2CA51FDAF4664A2ED9E1F6D22775E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6EEA7BF8299D4E6985A2F27FE33E54AD }}
